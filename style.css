@@ -1,0 +1,48 @@
+body{
+    padding: 5px 30px; 
+    font-size: 20px;
+}
+
+p{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(90, 90, 201);
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+}
+
+h2 img{
+    padding: 5px 5px;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+.padding{
+    padding: 0px 10px;
+}
+
+.diamante{
+    color: rgb(95, 93, 93);
+}
+
+.trigo{
+    color: rgb(179, 106, 55);
+}
+
+.ovelha{
+    color: brown;
+}
